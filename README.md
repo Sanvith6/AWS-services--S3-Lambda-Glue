@@ -1,5 +1,5 @@
 # AWS Weather Data ETL Pipeline
- 
+  
 This project demonstrates a simple AWS data engineering pipeline built with Amazon S3, AWS Lambda, and AWS Glue. The workflow starts with a raw weather CSV file, preprocesses it with Lambda, catalogs it with a Glue crawler, and transforms it into Parquet format through a Glue ETL job.
 
 ## Project Overview
